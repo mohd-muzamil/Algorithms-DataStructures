@@ -14,6 +14,19 @@ const depthFirstPrint1 = (graph, source) => {
   }
 };
 
+const breadthFirstPrint1 = (graph, source) => {
+  const queue = [ source ];
+  
+  while (queue.length > 0) {
+    const current = queue.shift();
+    console.log(current);
+    
+    for (let neighbor of graph[current]) {
+      queue.push(neighbor);
+    }
+  }
+};
+
 
 // Implementation using recursion
 const depthFirstPrint2 =  = (graph, source) => {
@@ -39,3 +52,6 @@ depthFirstPrint1(graph, 'a');
 
 depthFirstPrint2(graph, 'a'); 
 // output: abdfce
+
+breadthFirstPrint1(graph, 'a'); 
+// output: abcdef
