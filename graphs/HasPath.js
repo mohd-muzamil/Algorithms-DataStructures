@@ -1,3 +1,8 @@
+/*
+Write a function, hasPath, that takes in an object representing the adjacency list of a directed acyclic graph and two nodes (src, dst). 
+The function should return a boolean indicating whether or not there exists a directed path between the source and destination nodes.
+*/
+
 // BFS iterative implementation that returns true if node is found in the graph
 
 const hasPath = (graph, src, dst) => {
@@ -19,3 +24,21 @@ dst: destination node
   }
   return false;
 };
+
+
+const graph = {
+  f: ['g', 'i'],
+  g: ['h'],
+  h: [],
+  i: ['g', 'k'],
+  j: ['i'],
+  k: []
+};
+
+result = hasPath(graph, 'f', 'k'); // true
+console.log(result)
+
+// n = number of nodes
+// e = number edges
+// Time: O(e)
+// Space: O(n)
