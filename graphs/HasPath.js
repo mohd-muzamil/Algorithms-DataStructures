@@ -13,8 +13,8 @@ dst: destination node
     
     if (current === dst) return true;
     
-    for (let neighbor of graph[src]) {
-      queue.push(neighbour); 
+    for (let neighbor of graph[current]) {
+      queue.push(neighbor); 
     }
   }
   return false;
