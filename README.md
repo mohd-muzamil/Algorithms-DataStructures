@@ -3,7 +3,7 @@ Implementation of important programming algorithms
 
 #### Graphs
 
-* [Depth First Search in js](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/DFS_BFS_traversal.js)
+* [DFS_BFS_traversal](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/DFS_BFS_traversal.js)
 * [undirected path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/UndirectedPath.js)
 * [connected Components](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/ConnectedComponents.js)
 * [has Path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/HasPath.js)
