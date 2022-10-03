@@ -12,12 +12,12 @@ Implementation of important programming algorithms
 - [minimum island](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/MinimumIsland.js)
 
 ####Binary Trees
-* [Depth First values](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/1.DepthFirstValues.js)
-* []()
-* []()
-* []()
-* []()
-* []()
+1. [Depth First values](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/1.DepthFirstValues.js)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 
 
 [goto top](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/README.md#TOP)
