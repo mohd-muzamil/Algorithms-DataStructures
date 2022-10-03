@@ -1,5 +1,5 @@
 1. [DFS BFS traversal](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/DFS_BFS_traversal.js)
-1. [Undirected has path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/UndirectedPath.js)
+1. [Un-directed has path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/UndirectedPath.js)
 1. [Directed has Path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/HasPath.js)
 1. [Shortest path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/ShortestPath.js)
 1. [No of connected Components](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/ConnectedComponents.js)
