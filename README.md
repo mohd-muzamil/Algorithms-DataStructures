@@ -20,4 +20,4 @@ Implementation of important programming algorithms
 1. [Max root to leaf path sum](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/6.MaxRootToLeafPathSum.js)
 
 
-[goto top](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/README.md#TOP)
+<a href="#top">Back to top</a>
