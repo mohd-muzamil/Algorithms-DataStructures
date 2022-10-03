@@ -9,7 +9,7 @@ Implementation of important programming algorithms
 1. [No of connected Components](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/ConnectedComponents.js)
 1. [Largest component](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/LargestComponent.js)
 1. [Island count](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/IslandCount.js)
-1. [Min island](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/MinimumIsland.js)
+1. [Min island](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/MinIsland.js)
 
 #### Binary Trees
 1. [Depth First values](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/DepthFirstValues.js)
