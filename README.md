@@ -20,5 +20,5 @@ Implementation of important programming algorithms
 * []()
 
 
-[goto top](https://github.com/mohd-muzamil/Algorithms-DataStructures/edit/main/README.md#TOP)
+[goto top](https://github.com/mohd-muzamil/Algorithms-DataStructures/main/README.md#TOP)
 
