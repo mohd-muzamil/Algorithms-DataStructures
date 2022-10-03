@@ -20,5 +20,5 @@ Implementation of important programming algorithms
 * []()
 
 
-Markup: [goto top](# Algorithms-DataStructures "Goto heading-1")
+[goto top](https://github.com/mohd-muzamil/Algorithms-DataStructures/edit/main/README.md#TOP)
 
