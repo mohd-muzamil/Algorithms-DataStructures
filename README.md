@@ -3,13 +3,13 @@ Implementation of important programming algorithms
 
 #### Graphs
 1. [DFS BFS traversal](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/DFS_BFS_traversal.js)
-1. [undirected has path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/UndirectedPath.js)
-1. [directed has Path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/HasPath.js)
-1. [shortest path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/ShortestPath.js)
-1. [no of connected Components](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/ConnectedComponents.js)
-1. [largest component](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/LargestComponent.js)
-1. [island count](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/IslandCount.js)
-1. [minimum island](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/MinimumIsland.js)
+1. [Undirected has path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/UndirectedPath.js)
+1. [Directed has Path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/HasPath.js)
+1. [Shortest path](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/ShortestPath.js)
+1. [No of connected Components](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/ConnectedComponents.js)
+1. [Largest component](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/LargestComponent.js)
+1. [Island count](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/IslandCount.js)
+1. [Min island](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/MinimumIsland.js)
 
 #### Binary Trees
 1. [Depth First values](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/1.DepthFirstValues.js)
