@@ -12,12 +12,12 @@ Implementation of important programming algorithms
 1. [Min island](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/graphs/MinimumIsland.js)
 
 #### Binary Trees
-1. [Depth First values](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/1.DepthFirstValues.js)
-1. [Breadth First Values](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/2.BreadthFirstValues.js)
-1. [Tree sum](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/3.TreeSum.js)
-1. [Tree includes](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/4.TreeIncludes.js)
-1. [Tree min value](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/5.TreeMinValue.js)
-1. [Max root to leaf path sum](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/6.MaxRootToLeafPathSum.js)
+1. [Depth First values](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/DepthFirstValues.js)
+1. [Breadth First Values](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/BreadthFirstValues.js)
+1. [Tree sum](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/TreeSum.js)
+1. [Tree includes](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/TreeIncludes.js)
+1. [Tree min value](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/TreeMinValue.js)
+1. [Max root to leaf path sum](https://github.com/mohd-muzamil/Algorithms-DataStructures/blob/main/BinaryTree/MaxRootToLeafPathSum.js)
 
 
 <a href="#top">Back to top</a>
