@@ -1,4 +1,6 @@
-/**/ 
+/*
+func to fast compute fibonacci series using dynamic programming, memotization
+*/ 
 
 const fib(n, memo={}) => {
   if (n in memo) return memo[n];
