@@ -1,5 +1,6 @@
 /*
-func to fast compute fibonacci series using dynamic programming, memotization
+func to fast compute fibonacci series using dynamic programming
+memoization
 */ 
 
 const fib(n, memo={}) => {
