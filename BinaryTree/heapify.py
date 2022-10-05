@@ -1,9 +1,8 @@
-/*
+"""
 Code to heapify a binary tree and perform insert and delete operations
-*/
+"""
 
 # Max-Heap data structure in Python
-
 def heapify(arr, n, i):
     largest = i
     l = 2 * i + 1
