@@ -33,3 +33,10 @@ def predictDays(day, k):
   
   return ret
   
+
+if __name__ == "__main__":
+    day = [3,2,2,2,3,4]
+    k = 2
+    print('Ideal days for camping are:')
+    print(['day'+str(x) for x in predictDays(day, k)])
+
