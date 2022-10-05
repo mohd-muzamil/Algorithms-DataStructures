@@ -1,5 +1,6 @@
 """
-Code to heapify a binary tree and perform insert and delete operations
+Code to generate a binary tree using an array and heapify it.
+perform insert and delete operations.
 """
 
 # Max-Heap data structure in Python
